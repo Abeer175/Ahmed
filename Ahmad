@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>أحمد جاسر الشهري</title>
+</head>
+<body>
+    <h1>أهلا بكم في موقعي</h1>
+    <p>
+        أحمد جاسر الشهري<br>
+        أول ثانوي
+    </p>
+
+    <ul>
+        <li>حفظ القرآن</li>
+        <li>التفوق في دراستي</li>
+        <li>تطوير لغتي الانجليزية</li>
+    </ul>
+
+    <ol>
+        <li>كرة القدم</li>
+        <li>القراءة</li>
+        <li>السفر</li>
+    </ol>
+
+    <img src="madrasati.png" alt="شعار مدرستي">
+    <a href="https://schools.madrasati.sa">اضغط هنا</a>
+</body>
+</html>
